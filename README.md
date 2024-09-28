@@ -1,2 +1,4 @@
 # PRODIGY_DS_05
-We analyzed traffic accident data to uncover patterns linked to road conditions, weather, and time of day. By visualizing accident hotspots and key contributing factors, we identified trends that help explain when and where accidents are more likely to occur.
+We conducted an analysis of traffic accident data to identify key patterns influenced by road conditions, weather, and time of day. The dataset was first cleaned to ensure accuracy, and we then explored how these factors impact the frequency and severity of accidents. Descriptive statistics were used to summarize accident counts under different weather conditions, road types, and times of day.
+
+For visualization, heatmaps were employed to highlight accident hotspots, showing areas with high incident rates. Bar charts illustrated the correlation between accidents and specific contributing factors, such as wet roads or nighttime driving. This analysis provides insights into potential risk factors and helps in identifying critical areas for improving traffic safety and accident prevention strategies.
